@@ -64,8 +64,3 @@ spotify-clone/
 
 ⭐ If you like this project, feel free to star it and give feedback!
 
-Follow the steps below to run this project on your local machine:
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/spotify-clone.git
