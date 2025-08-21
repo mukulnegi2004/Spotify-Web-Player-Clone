@@ -28,7 +28,7 @@ This is a **responsive front-end clone** of the Spotify Web Player, designed wit
 ---
 
 ## 📁 Folder Structure
-
+```
 spotify-clone/
 ├── assets/ # Images, icons, and logos
 │ ├── card1img.jpeg
@@ -37,7 +37,7 @@ spotify-clone/
 ├── index.html # Main HTML file
 ├── style.css # Main stylesheet
 ├── README.md # Project documentation
-
+```
 ---
 
 ## 🚀 Live Demo
@@ -57,7 +57,7 @@ spotify-clone/
 ## 📬 Connect with Me
 
 - 💼 [GitHub](https://github.com/mukulnegi2004)
-- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-75b741374/)
+- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-431039378/)
 - 📫 Email: mannunegi126@gmail.com
 
 ---
